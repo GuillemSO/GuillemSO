@@ -1,5 +1,5 @@
  
-##  GitHub Stats
+## :chart_with_upwards_trend  GitHub Stats
 
 <div align="center">
 
